@@ -1,4 +1,5 @@
 hello git! hello Star! master test
+hello git! hello Star! hot-fix test
 hello git! hello Star! 
 hello git! hello Star! 
 hello git! hello Star! 
